@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyun-Taek Hong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Developer"
   location         : "Seoul Korea"
   email            : "hongtaek92@gmail.com"
   links:
